@@ -292,7 +292,7 @@ this section discusses common errors that can occur in the program and explores 
 <h3><p align="center">Trustability</p></h3>
 
 
-you can verify that the program works by testing it on **your profile**, open the wordlist and put **your profile password** in the first place, then start the program and enter your instagram profile nuckname and you will see that the password will come out as correct.
+you can verify that the program works by testing it on **your profile**, open the wordlist and put **your profile password** in the first place, then start the program and enter your Instagram profile nickname and you will see that the password will come out as correct.
 
 
 </p></h3>
@@ -307,30 +307,4 @@ you can verify that the program works by testing it on **your profile**, open th
 | Twitter|     X      |   X        |           |
 
 </div> 
-
-<br>
-
----
-
-
-
-<br>
-
-<h3><p align="center">Issues and Suggestions</p></h3>
-
-<p align="center">
-  <img src="images/issues.gif" alt=""/>
-</p>
-
-If you have encountered an issue with SocialMediaHackingToolkit or would like to suggest an improvement, please report it in our [Issues section](https://github.com/RedKatz/SocialMediaHackingToolkit/issues).<br> Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br> <b>Thank you for your contribution!</b>
-
-<br>
-
-
- <h4><p align="center">
-Reach me for commissioned programs or collab on:
-</p></h4>
-
-<p align="center">
-  <a href="https://t.me/zztaKdeR" target="_blank"><img alt="home" src="https://img.shields.io/badge/Telegram-gray?logo=telegram&logoColor=blue"></a>
 
